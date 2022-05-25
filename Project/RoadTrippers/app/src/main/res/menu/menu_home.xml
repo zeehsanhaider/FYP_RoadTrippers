@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tripsFragment"
+        android:icon="@drawable/ic_trips"
+        android:title="@string/tab_title_trips"/>
+
+    <item
+        android:id="@+id/placesFragment"
+        android:icon="@drawable/ic_places"
+        android:title="@string/tab_title_places"/>
+
+    <item
+        android:id="@+id/myTripsFragment"
+        android:icon="@drawable/ic_my_trips"
+        android:title="@string/tab_title_my_trips"/>
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/tab_title_profile"/>
+
+</menu>

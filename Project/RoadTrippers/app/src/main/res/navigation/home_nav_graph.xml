@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_nav_graph.xml"
+    app:startDestination="@id/tripsFragment">
+
+    <fragment
+        android:id="@+id/tripsFragment"
+        android:name="com.example.roadtrippers.ui.fragment.TripsFragment"
+        android:label=""
+        tools:layout="@layout/fragment_trips">
+        <action
+            android:id="@+id/action_tripsFragment_to_tripDetailsFragment"
+            app:destination="@id/tripDetailsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/placesFragment"
+        android:name="com.example.roadtrippers.ui.fragment.PlacesFragment"
+        android:label=""
+        tools:layout="@layout/fragment_places">
+        <action
+            android:id="@+id/action_placesFragment_to_placeDetailsFragment"
+            app:destination="@id/placeDetailsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/myTripsFragment"
+        android:name="com.example.roadtrippers.ui.fragment.MyTripsFragment"
+        android:label=""
+        tools:layout="@layout/fragment_my_trips">
+        <action
+            android:id="@+id/action_myTripsFragment_to_tripDetailsFragment"
+            app:destination="@id/tripDetailsFragment" />
+        <action
+            android:id="@+id/action_myTripsFragment_to_placeDetailsFragment"
+            app:destination="@id/placeDetailsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.roadtrippers.ui.fragment.ProfileFragment"
+        android:label=""
+        tools:layout="@layout/fragment_profile">
+        <action
+            android:id="@+id/action_profileFragment_to_userInformationFragment"
+            app:destination="@id/userInformationFragment" />
+        <action
+            android:id="@+id/action_profileFragment_to_travelInfoFragment"
+            app:destination="@id/travelInfoFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/tripDetailsFragment"
+        android:name="com.example.roadtrippers.ui.fragment.TripDetailsFragment"
+        android:label="fragment_trip_details"
+        tools:layout="@layout/fragment_trip_details">
+
+        <argument
+            android:name="tripId"
+            android:defaultValue="null"
+            app:argType="string" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/bookTripFragment"
+        android:name="com.example.roadtrippers.ui.fragment.BookTripFragment"
+        android:label="fragment_book_trip"
+        tools:layout="@layout/fragment_book_trip">
+
+        <argument
+            android:name="selectedPlace"
+            app:argType="com.example.roadtrippers.model.Place" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/placeDetailsFragment"
+        android:name="com.example.roadtrippers.ui.fragment.PlaceDetailsFragment"
+        android:label="PlaceDetailsFragment">
+        <argument
+            android:name="selectedPlace"
+            app:argType="com.example.roadtrippers.model.Place" />
+        <action
+            android:id="@+id/action_placeDetailsFragment_to_bookTripFragment"
+            app:destination="@id/bookTripFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/userInformationFragment"
+        android:name="com.example.roadtrippers.ui.fragment.UserInformationFragment"
+        android:label="fragment_user_infomation"
+        tools:layout="@layout/fragment_user_infomation" />
+
+    <fragment
+        android:id="@+id/travelInfoFragment"
+        android:name="com.example.roadtrippers.ui.fragment.TravelInfoFragment"
+        android:label="fragment_travel_info"
+        tools:layout="@layout/fragment_travel_info" />
+
+</navigation>

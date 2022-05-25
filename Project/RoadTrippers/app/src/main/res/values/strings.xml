@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lets Go</string>
+    <string name="app_tag_line">Discover the most interesting\nplaces around you...</string>
+    <string name="remember_me">Remember Me</string>/
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_title_trips">Trips</string>
+    <string name="tab_title_places">Places</string>
+    <string name="tab_title_my_trips">My Trips</string>
+    <string name="tab_title_profile">Profile</string>
+
+    <string name="sample_trip_description">Ganga choti is an excellent place to visit. From Islamabad to Sudhan Gali the road is perfect. Rest houses are available in sudhan gali such as benazir palace etc. Road conditions from Sudhan Gali to the base came is perfect for cars but keep in mind that it is ectremely steep. A two - three hours hike is required to reach the top from the base camp. The top is at 3,000m of altitude. The best thing about ganga is that throughout the hiking youd see and enjoy a perfect natural beauty and once you are at the top the scene is breathtaking. Ganga choti is way better than miranjani.</string>
+
+    <string name="paying_info">Please pay the fair at departure site to travel agent</string>
+    <string name="update_pass_info">By clicking on the update button, you will be receive a mail containing instructions to change you password.</string>
+
+    <string name="terms_and_conditions">
+        <u>Terms and Conditions</u>
+    </string>
+
+</resources>

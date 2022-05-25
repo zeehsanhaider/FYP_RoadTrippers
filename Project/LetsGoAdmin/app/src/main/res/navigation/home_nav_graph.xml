@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_nav_graph"
+    app:startDestination="@id/tripsFragment">
+
+    <fragment
+        android:id="@+id/addPlaceFragment"
+        android:name="com.example.letsgoadmin.ui.fragment.AddPlaceFragment"
+        android:label="fragment_add_place"
+        tools:layout="@layout/fragment_add_place" />
+
+    <fragment
+        android:id="@+id/addTripFragment"
+        android:name="com.example.letsgoadmin.ui.fragment.AddTripFragment"
+        android:label="fragment_add_trip"
+        tools:layout="@layout/fragment_add_trip" />
+
+    <fragment
+        android:id="@+id/usersFragment"
+        android:name="com.example.letsgoadmin.ui.fragment.UsersFragment"
+        android:label="fragment_users"
+        tools:layout="@layout/fragment_users">
+        <action
+            android:id="@+id/action_usersFragment_to_customTripDetailsFragment"
+            app:destination="@id/customTripDetailsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/tripsFragment"
+        android:name="com.example.letsgoadmin.ui.fragment.TripsFragment"
+        android:label="fragment_trips"
+        tools:layout="@layout/fragment_trips">
+        <action
+            android:id="@+id/action_tripsFragment_to_defaultTripDetailsFragment"
+            app:destination="@id/defaultTripDetailsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/customTripDetailsFragment"
+        android:name="com.example.letsgoadmin.ui.fragment.CustomTripDetailsFragment"
+        android:label="CustomTripDetailsFragment">
+        <argument
+            android:name="ticket"
+            app:argType="com.example.letsgoadmin.model.CustomTripTicket" />
+        <argument
+            android:name="user"
+            app:argType="com.example.letsgoadmin.model.User" />
+        <argument
+            android:name="place"
+            app:argType="com.example.letsgoadmin.model.Place" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/defaultTripDetailsFragment"
+        android:name="com.example.letsgoadmin.ui.fragment.DefaultTripDetailsFragment"
+        android:label="fragment_default_trip_details"
+        tools:layout="@layout/fragment_default_trip_details">
+        <argument
+            android:name="trip"
+            app:argType="com.example.letsgoadmin.model.Trip" />
+        <argument
+            android:name="user"
+            app:argType="com.example.letsgoadmin.model.User" />
+        <argument
+            android:name="ticket"
+            app:argType="com.example.letsgoadmin.model.DefaultTripTicket" />
+    </fragment>
+
+</navigation>

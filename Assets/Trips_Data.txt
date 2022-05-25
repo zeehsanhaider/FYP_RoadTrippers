@@ -1,0 +1,40 @@
+Ghanga Choti:
+
+description: 
+Ganga choti is an excellent place to visit. From Islamabad to Sudhan Gali the road is perfect. Rest houses are available in sudhan gali such as benazir palace etc. Road conditions from Sudhan Gali to the base came is perfect for cars but keep in mind that it is ectremely steep. A two - three hours hike is required to reach the top from the base camp. The top is at 3,000m of altitude. The best thing about ganga is that throughout the hiking you'd see and enjoy a perfect natural beauty and once you're at the top the scene is breathtaking. Ganga choti is way better than miranjani.
+
+imgUrls: 
+https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/GhangaChoti-1.png?alt=media&token=5c12775b-0568-4828-be6b-9abe6b9d4933,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/GhangaChoti-2.jpg?alt=media&token=711ea0a6-6bc0-4713-8e31-bc7ddc12f7e1,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/GhangaChoti-3.jpg?alt=media&token=b43806c2-78f0-40d9-b459-7ce91494e4ae,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/GhangaChoti-4.jpg?alt=media&token=44602409-3143-4723-b84e-b2957c6024e0
+
+Naran Khagan:
+
+description:
+Naran Kaghan is famous as a tourist destination, owing to its pleasant weather in peak season every year thousands of tourists rush to explore the valley. It is also the gateway to Gilgit Hunza in Summers by Babusar Pass. Naran Bazaar is very crowded in the summers with hotels and restaurants offering their services.
+
+imgUrls:
+https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/Naran-2.jpg?alt=media&token=bb0877a1-f732-4b8d-8560-290fa24c4820,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/Naran-3.jpg?alt=media&token=a096461b-560a-4213-b484-a3c67a26a81e,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/Naran-4.jpg?alt=media&token=295290bb-b278-4a11-a179-5e43d0f878e1,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/Naran-5.jpg?alt=media&token=78db25e5-582a-4162-9b03-de62cd92190f
+
+Noori Waterfall:
+
+description:
+Noori Waterfall is a waterfall located in Tial village, Haripur District of Khyber Pakhtunkhwa province of Pakistan. It is located about 85 kilometres away from city of Islamabad. The waterfall is approximately 10 feet in height. The waterfall is located in an open cove like formation on the side of a hill. The waterfall is small in height and has a clear blue water stream.
+
+imgUrls:
+https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/NooriWaterFall-1.jpg?alt=media&token=431d6166-4b41-4c17-8c05-43b491901b71,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/NooriWaterFall-2.jpg?alt=media&token=71460d32-5919-4611-a821-2cf9952e21b9,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/NooriWaterFall-3.jpg?alt=media&token=03bdeb32-efa8-4fc0-b2a8-5eda8c033d0a
+
+Pir Chinasi:
+
+description:
+Pir Chinasi (also spelled as Peer Chinasi) is a shrine and a tourist destination located about 30 kilometers (19 mi) east of Muzaffarabad, the capital city of Azad Kashmir administered by Pakistan.It is located on the top of hills at the height of 2,900 metres (9,500 ft). The mountain peak has gained large fame for its ziyarat of a famous saint, Sayed Hussain Shah Bukhari
+This place is also visited by tourists, for the view of Muzaffarabad and rural areas around the hidden city. The area is also famous for paragliding and snow cross jeep rallies.
+
+imgUrls:
+https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/PirChinasi-1.jpg?alt=media&token=856c549c-4edf-4b90-80ac-875435a45c1a,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/PirChinasi-2.jpg?alt=media&token=2b0253f4-3b64-4a67-a2ed-33e845f5faec,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/PirChinasi-3.jpg?alt=media&token=5689f7b1-de19-495b-b73a-baee0ad5a99b,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/PirChinasi-4.jpg?alt=media&token=3e6dc504-5564-44bf-9df9-36edfb8175f5
+ 
+Neela Sandh:
+
+description:
+Neela Sandh is a waterfall in Mouri Syedan, Rawalpindi District of Punjab the province of Pakistan. It is 44 kilometres (27 mi) away from Islamabad. It is surrounded by greenery, tall trees and extensive lush green mountains. The depth of the water is nearly 80ft and lifejackets are available for those who need them. The price of one is an easily affordable 150 Rs. Cliff-diving can also be done here. [2] It is a small waterfall which has a clear, bluish water stream.
+
+imgUrls:
+https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/NeelaSandh-1.jpg?alt=media&token=cac62e42-77d7-460c-99f4-aab54838dd97,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/NeelaSandh-2.jpeg?alt=media&token=e9256f4d-9e38-4c25-be55-b0d2132c6b75,https://firebasestorage.googleapis.com/v0/b/roadtrippers-62faa.appspot.com/o/NeelaSandh-3.jpg?alt=media&token=8928ea07-fd14-4f2b-abbc-a24afe5d0328
